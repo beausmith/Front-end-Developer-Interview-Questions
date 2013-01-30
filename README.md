@@ -170,7 +170,7 @@ $(".foo div#bar:eq(0)")
 * Explain the significance of "cornify". 
 * On a piece of paper, write down the letters A B C D E vertically. Now put these in descending order without writing one line of code. 
 	* Wait and see if they turn the paper upside down
-* This should make the laugh and is a fine way to relieve some tension at the end of the interview.  
+* This should make them laugh and is a fine way to relieve some tension at the end of the interview.  
 * Pirate or Ninja? 
 	* Bonus if it's a combo and a good reason was given (+2 for zombie monkey pirate ninjas) 
 * If not Web Development what would you be doing? 
