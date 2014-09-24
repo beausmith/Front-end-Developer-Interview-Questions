@@ -178,3 +178,9 @@ $(".foo div#bar:eq(0)")
 * What's your favorite feature of Internet Explorer?
 * Complete this sentence: Brendan Eich and Doug Crockford are the __________ of javascript.
 * jQuery: a great library or the greatest library? Discuss.
+
+
+~~~html
+<div>testing fooobaar</div>
+~~~
+
